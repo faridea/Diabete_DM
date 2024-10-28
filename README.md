@@ -1,1 +1,1 @@
-Data mining project for diabetes (Pima Indians Dataset)
+Data mining course project with Pima Indians dataset
